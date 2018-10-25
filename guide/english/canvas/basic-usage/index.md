@@ -28,3 +28,4 @@ Paths are the building block of drawing in `canvas`. See the '[Paths](/articles/
 
 - [MDN Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [HTMLCanvasElement.getContext() (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/getContext)
+- [Canvas Projects](https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210)
