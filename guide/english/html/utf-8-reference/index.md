@@ -35,3 +35,4 @@ Specify a meta tag with a charset of UTF 8 in your head tag.
 
 * [Unicode Character Code Charts](https://www.unicode.org/charts/index.html)
 * [HTML Unicode Reference](https://www.w3schools.com/charsets/ref_html_utf8.asp)
+* [MDN Unicode Reference] (https://developer.mozilla.org/en-US/docs/Glossary/Unicode)
